@@ -1,0 +1,39 @@
+#feature {
+  background-color: orange ;
+  background-image:url();
+  background-size:contain;
+  background-repeat:no-repeat; 
+  background-position:center; 
+    
+  }
+#header
+{ background-color: ; }
+
+  
+#nav { background-color: orange; 
+
+ 
+}
+
+}
+
+
+  h1 {
+    background-color:;
+    font-family: "Times New Roman", Times, serif;
+}
+
+div {
+    background-color:; 
+    background-size:; 
+}
+
+p {
+    background-color:orange;
+}
+body {
+      background-image: url("http://wallpoper.com/images/00/28/43/78/cityscapes-seattle_00284378.jpg")
+ }
+
+* {
+  font-family: "Times New Roman", Times, serif } 
