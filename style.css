@@ -1,13 +1,14 @@
-#feature {
-  background-color: orange ;
-  background-image:url();
-  background-size:contain;
-  background-repeat:no-repeat; 
-  background-position:center; 
+body {
+  padding : 0.5em;
+  width : 90%;
+  margin : 0 auto;
+  background-image :url();
+  background-size : contain;
+  background-position : center;
+  background-repeat : no-repeat;
   background-attachment : fixed;
   background-size : cover;
-    
-  }
+}
 #header
 { background-color: ; }
 
