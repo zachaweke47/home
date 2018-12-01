@@ -10,6 +10,9 @@ body {
   background-size: contain;
   margin: 0 auto;
 }
+body{
+  background-color: lightgoldenrodyellow;
+}
 /* Minimum aspect ratio */
 @media (min-aspect-ratio: 1/1) {
   body {
